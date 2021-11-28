@@ -1,12 +1,5 @@
-# awesome-no-login-web-apps
-🚀 Awesome (free) web apps that work without login
-# Awesome Web Apps (that work without login)
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
-[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md)
-[![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/discordiy)
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/discordiy/awesome-no-login-web-apps/issues/new/)
 
 Curated list of awesome web apps that work without requesting you to create an account.
 
@@ -358,4 +351,4 @@ To save the world from creating user accounts and installing software applicatio
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, Avi Aryan has waived all copyright and related or neighboring rights to this work.
